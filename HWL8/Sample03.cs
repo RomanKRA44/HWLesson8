@@ -22,7 +22,7 @@ namespace HWL8
 
             Console.WriteLine("\n***\n");
 
-            PrintDir(new DirectoryInfo(@"D:\source\sandbox"), "", true);
+            PrintDir(new DirectoryInfo(@"D:\source\Lesson8"), "", true);
 
             Console.ReadKey(true);
         }
